@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_CalorieCounting", "01_Ca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_RockPaperScissors", "02_RockPaperScissors\02_RockPaperScissors.vcxproj", "{7244347A-474D-4BBE-82C4-083279EAA039}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_RucksackReorganization", "03_RucksackReorganization\03_RucksackReorganization.vcxproj", "{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7244347A-474D-4BBE-82C4-083279EAA039}.Release|x64.Build.0 = Release|x64
 		{7244347A-474D-4BBE-82C4-083279EAA039}.Release|x86.ActiveCfg = Release|Win32
 		{7244347A-474D-4BBE-82C4-083279EAA039}.Release|x86.Build.0 = Release|Win32
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Debug|x64.ActiveCfg = Debug|x64
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Debug|x64.Build.0 = Debug|x64
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Debug|x86.Build.0 = Debug|Win32
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Release|x64.ActiveCfg = Release|x64
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Release|x64.Build.0 = Release|x64
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Release|x86.ActiveCfg = Release|Win32
+		{4FDADCAC-126F-44E7-9BCF-25CCE6EF1770}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

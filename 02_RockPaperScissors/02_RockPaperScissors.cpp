@@ -97,7 +97,6 @@ int main()
 	std::cout << "Part 1: Total score: " << PartOne() << std::endl;
 	std::cout << "Part 2: Total score: " << PartTwo() << std::endl;
 
-
 	return 0;
 }
 
